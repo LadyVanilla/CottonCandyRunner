@@ -29,7 +29,7 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
-#OS generated
+# OS generated
 
 .DS_Store
 .DS_Store?
